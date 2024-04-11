@@ -364,6 +364,21 @@ public class CalculatorApplication implements ActionListener {
             label.setText("");
             num1=result;
         }
+        else if(source==buttonEqual){
+            num2=Double.parseDouble(textField.getText());
+            switch (calculation){
+                case 1: result = num1+num2;break;
+                case 2: result = num1-num2;break;
+                case 3: result = num1*num2;break;
+                case 4: result = num1/num2;break;
+            } if(Double.toString(result).endsWith(".0")){
+                textField.setText(Double.toString(result).replace(".0",""));
+            } else{
+                textField.setText(Double.toString(result));
+            }
+            label.setText("");
+            num1=result;
+        }
 
     }
     public void enable(){
