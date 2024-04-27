@@ -59,4 +59,4 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ## Acknowledgments
 
-Special thanks to [Your Name] for the inspiration and guidance in developing this calculator application.
+Special thanks to Contributors for the inspiration and guidance in developing this calculator application.
