@@ -56,9 +56,6 @@ The calculator application provides basic arithmetic operations such as addition
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
