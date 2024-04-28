@@ -54,7 +54,7 @@ public class CalculatorApplication implements ActionListener {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }
-    public void addComponents (){
+    public void addComponents (){  
         label.setBounds(250,0,50,50);
         label.setForeground(Color.white);
         frame.add(label);
@@ -213,7 +213,7 @@ public class CalculatorApplication implements ActionListener {
 
 
     }
-    public void addActionEvent(){
+    public void addActionEvent(){ 
 
         //calling action-listener for Buttons
 
@@ -367,7 +367,7 @@ public class CalculatorApplication implements ActionListener {
 
 
     }
-    public void enable(){
+    public void enable(){ // Radio button action
         onRadioButton.setEnabled(false);
         offRadioButton.setEnabled(true);
         textField.setEnabled(true);
@@ -395,7 +395,7 @@ public class CalculatorApplication implements ActionListener {
         buttonDot.setEnabled(true);
 
     }
-    public void disable(){
+    public void disable(){  // Radio button action
         onRadioButton.setEnabled(true);
         offRadioButton.setEnabled(false);
         textField.setEnabled(false);
