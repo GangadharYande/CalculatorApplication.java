@@ -16,7 +16,7 @@ The calculator application provides basic arithmetic operations such as addition
 - Square root
 - Reciprocal
 - Clear input
-- Delete last character
+- Delete the last character
 - On/Off toggle
 
 ## Screenshots
