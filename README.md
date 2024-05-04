@@ -26,7 +26,7 @@ The calculator application provides basic arithmetic operations such as addition
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites!
 
 - Java Development Kit (JDK) installed
 - Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse
